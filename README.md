@@ -86,7 +86,17 @@ ExpressVPN是全球最大的VPN公司，提供自有资源快速更新，Express
 ### Surfshark VPN (衝浪鯊) 推荐
 ![image](./image/surfshark/1-1.png)
 
+Surfshark 是一款高度精致且功能强大的 VPN，可与最好的优质提供商竞争，同时提供极具吸引力的价格点。我们发现终止开关存在一些非常小的问题，而且 OpenVPN 的速度并不是最好的，但是以这个价格，你找不到更好的 VPN。Surfshark 在网络上受到广泛推荐，成立于 2018 年，是一项相对较新的服务，已经引起了轟動，现在它能与最大的VPN提供商一较高下，被认为是市场上最好的 VPN之一。
+
+
 ### Surfshark VPN 的特色
+- 介绍性优惠超级便宜
+- 全新的安全审核让您高枕无忧
+- 出色的流媒体性能
+- 客戶支持非常有用
+- Surfshark 在 65 个位置拥有 3,200 多台健康的服务器和无限的同时连接，加上行业标准的 AES-256-GCM 加密
+- 無限多台設備連接
+- Surfshark 最大的吸引力在于它的价格，在撰写本文时，**2 年计划的价格为每月 2.30 美元。是我見過最便宜的VPN廠商**
 
 
 ### 4 <a rel="nofollow noopener" href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">FlowVPN(免費試用兩天)</a>

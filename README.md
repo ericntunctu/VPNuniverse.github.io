@@ -62,7 +62,8 @@ StrongVPN 拥有适用于 Windows、Mac、iOS、Android 和 Amazon Fire TV 的�
 - 高稳定性
 - 每月只需3.50 美元（12 个月计划 – 每月 3.50 美元（总成本 43.99 美元）
 
-### 第二推薦: Expressvpn (買12個月送三個月)
+### <a rel="nofollow noopener" href="https://www.xvuslink.com/?a_fid=wall101">Expressvpn (買12個月送三個月)</a>
+### Expressvpn (買12個月送三個月)
 ![image](./image/w_d.png)
 
 ### Expressvpn 的特色

@@ -165,6 +165,16 @@ Proton VPN在2018年以前也是一个很火红的VPN，然而近年来由于防
 
 ### 老王VPN
 
+网路上出现了一款老王VPN，又称作Wang VPN，這幾年非常火紅，然後跟藍燈VPN一樣，這款VPN非常非常危險。號稱免費，然後近年至少有兩起因為老王VPN而被公安叫去喝茶的紀錄。
+
+(1)
+四川遂宁市男子蒋鹏，因擅自翻墙浏览境外网站，包括在YouTube观看视频、在Twitch观看直播和在亚马逊购物等，被警方给予行政处罚。违法行为人蒋鹏，男，现查明，蒋鹏在其使用的手机上安装“Turbo VPN”“ThunderVPN”“老王VPN”“免费SS”4款翻墙软件，使用翻墙软件在YouTube应用上观看视频，在Twitch上观看直播以及在亚马逊上购物，以上事实有违法行为人蒋鹏供述与申辩，蒋鹏使用“TurboVPN”浏览记录等证据证实。 消息来源: 遂宁男子浏览境外网站被行政处罚。消息參考: [老王VPN翻牆被抓](https://twitter.com/speechfreedomcn/status/1211095986908516352?lang=zh)
+
+(2)2019年5月，陕西省安康市网友杨某某使用老王VPN、蚂蚁VPN两款软件翻墙被行政警告，并处以500元罚款
+[老王VPN翻牆被抓](https://chinadigitaltimes.net/chinese/659157.html)
+
+
+<img src="./image/black/wang.PNG" alt="drawing" width="400"/>
 
 
 ## 中国VPN推荐标准以及必要的特色

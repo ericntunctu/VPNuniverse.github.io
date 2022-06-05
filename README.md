@@ -62,7 +62,7 @@ StrongVPN 拥有适用于 Windows、Mac、iOS、Android 和 Amazon Fire TV 的�
 - 高稳定性
 - 每月只需3.50 美元（12 个月计划 – 每月 3.50 美元（总成本 43.99 美元）
 
-### 2 <a rel="nofollow noopener" href="https://www.xvuslink.com/?a_fid=wall101">Expressvpn (買12個月送三個月)</a>
+### 2 <a rel="nofollow noopener" href="https://www.xvbelink.com/?offer=3monthsfree&a_fid=wall101&chan=w_github">Expressvpn (買12個月送三個月)</a>
 ### Expressvpn (買12個月送三個月)
 ![image](./image/w_d.png)
 
@@ -104,6 +104,24 @@ Surfshark 是一款高度精致且功能强大的 VPN，可与最好的优质提
 ![image](./image/download.jpg)
 
 ### FlowVPN 的特色
+
+
+
+
+## Expressvpn 線上優惠瑪購買教學 (如何购买ExpressVPN) 要注意: expressvpn 不支援支付寶，喜歡支付保的付款的朋友，建議使用strongvpn，或是flowvpn。
+Expressvpn 支援: 国内银行卡购买ExpressVPN，包含visa或是master card(海外卡也可以)，還有比特幣，還有paypal可以用。因為expressvpn 是海外網站，所以你可能需要翻牆才能訪問。關於這點，可以參考我的鏡像站連上網站的方法。
+
+### 第一步: 前往優惠連結<a rel="nofollow noopener" href="https://www.xvbelink.com/?offer=3monthsfree&a_fid=wall101&chan=w_github">Expressvpn 優惠</a>:點選: get expressvpn (底下的紅框框)
+
+<img src="./image/exp/1-1.PNG" alt="drawing" width="600"/>
+
+### 第二步: 你可以看到 買一年送三個月得連結，所以你只要付12個月的錢，但可以使用15個月(注意: 這個方式只能使用15個月，如果要續約，建議重新辦一個email,再回來使用這個優惠瑪。)
+
+<img src="./image/exp/1-2.PNG" alt="drawing" width="600"/>
+
+### 第三步: 輸入的電子郵件和付款方式。(Expressvpn 支援: 国内银行卡购买ExpressVPN，包含visa或是master card(海外卡也可以)，還有比特幣，還有paypal可以用)，千萬不要打錯。不然你就收不到驗證碼了。
+
+<img src="./image/exp/1-3.PNG" alt="drawing" width="600"/>
 
 
 

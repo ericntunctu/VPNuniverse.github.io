@@ -107,6 +107,26 @@ Surfshark 是一款高度精致且功能强大的 VPN，可与最好的优质提
 
 
 
+## Strongvpn 手把手購買教學 (支付保(alipay))
+strongvpn的特點就是有支付保(alipay)喜歡支付保的付款的朋友，建議使用strongvpn，或是flowvpn
+
+第一步驟: 前往本站的專屬優惠 <a rel="nofollow noopener" href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table" target="_blank">StrongVPN</a>，點選start now (參照下圖)
+
+<img src="./image/strong/s1-1.PNG" alt="drawing" width="600"/>
+
+第二步驟: 如果你開啟後發現你沒辦法購買，因為你正在使用其他VPN，這時候可以先透過註冊flowvpn(註冊方式可以參考下方的flowvpn安裝教學)，flowvpn有兩天免費試用，你可以先使用他來購買strongvpn。
+
+<img src="./image/strong/s2-1.PNG" alt="drawing" width="600"/>
+
+註冊完flowvpn以後，選擇UK，你會發現你就可以購買囉。左邊的一次買一年只要43美金，(注意: 這個方式只能使用12個月，如果要續約，建議重新辦一個email,再回來使用這個優惠瑪。)
+
+<img src="./image/strong/s3-1.PNG" alt="drawing" width="600"/>
+
+第三步驟: 往下滑，選擇alipay付款，或是国内银行卡，包含visa或是master card(海外卡也可以)，還有paypal可以用
+
+<img src="./image/strong/s4-1.PNG" alt="drawing" width="600"/>
+
+
 
 ## Expressvpn 線上優惠瑪購買教學 (如何购买ExpressVPN) 要注意: expressvpn 不支援支付寶，喜歡支付保的付款的朋友，建議使用strongvpn，或是flowvpn。
 Expressvpn 支援: 国内银行卡购买ExpressVPN，包含visa或是master card(海外卡也可以)，還有比特幣，還有paypal可以用。因為expressvpn 是海外網站，所以你可能需要翻牆才能訪問。關於這點，可以參考我的鏡像站連上網站的方法。

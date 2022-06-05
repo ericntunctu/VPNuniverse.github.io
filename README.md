@@ -145,9 +145,11 @@ Expressvpn 支援: 国内银行卡购买ExpressVPN，包含visa或是master card
 
 
 ## Surfshark 手把手購買教學
+### 第一步: 前往surfshark優惠瑪: <a rel="nofollow noopener" href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">Surfshark (具有無限多設備連接)</a> 點選: get (參考下方教學圖片)
 
 <img src="./image/surfshark/1-1.PNG" alt="drawing" width="600"/>
 
+### 第二步: 你可以看到 一次買兩年的優惠連結，所以你只要付24個月的錢，一個月不到3美金 (注意: 這個方式只能使用24個月，如果要續約，建議重新辦一個email,再回來使用這個優惠瑪。)
 
 <img src="./image/surfshark/2-1.PNG" alt="drawing" width="600"/>
 

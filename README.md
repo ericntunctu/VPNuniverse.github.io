@@ -18,10 +18,10 @@
 
 | 推薦的VPN       | 最優惠買法(時間) |  一個月價格  | 總價| 特色|
 | ------------- |:-------------:| -----:| -----: | -----: |
-| <a rel="nofollow noopener" href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table" target="_blank">StrongVPN</a>    | right-aligned | $1600 | 總價| cp值最高 |
-| <a rel="nofollow noopener" href="https://www.xvbelink.com/?offer=3monthsfree&a_fid=wall101&chan=w_github">Expressvpn (買12個月送三個月)</a>   | centered      |   $12 | 總價| 最高級 速度穩定度最高| 
-| <a rel="nofollow noopener" href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">Surfshark</a> | are neat      |    $1 | 總價|  無限多設備 |
-|  <a rel="nofollow noopener" href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">FlowVPN(免費試用兩天)</a> | are neat      |    $1 | 總價| 免費試用兩天 |
+| <a rel="nofollow noopener" href="https://strongvpn.com/?tr_aid=60d96b5810e50&chan=w_github&data1=pc-vpn&data2=table" target="_blank">StrongVPN</a>    | 一次買一年 | $1600 | 43.99 | cp值最高 |
+| <a rel="nofollow noopener" href="https://www.xvbelink.com/?offer=3monthsfree&a_fid=wall101&chan=w_github">Expressvpn (買12個月送三個月)</a>   | 一次買一年(可用15個月)     |   $12 | 總價| 最高級 速度穩定度最高| 
+| <a rel="nofollow noopener" href="https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fanqiang">Surfshark</a> |一次買兩年    |    $1 | 總價|  無限多設備 |
+|  <a rel="nofollow noopener" href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">FlowVPN(免費試用兩天)</a> | 一次買一年    |    $1 | 總價| 免費試用兩天 |
  
 
 ### 国产VPN推荐功能总结——2022年测试

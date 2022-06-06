@@ -159,6 +159,21 @@ Expressvpn 支援: 国内银行卡购买ExpressVPN，包含visa或是master card
 <img src="./image/surfshark/3-1.PNG" alt="drawing" width="600"/>
 
 
+## flowvpn免費試用兩天 手把手購買教學
+
+
+### 第一步: 到 <a rel="nofollow noopener" href="https://www.flowvpx.com/sign-up/?locale=zh-cn&special=FREETRIAL&r=35-890485.w_github">FlowVPN(免費試用兩天)</a> 輸入電子郵件跟密碼 (千萬不要出錯)
+
+<img src="./image/flowvpn/3-1.PNG" alt="drawing" width="600"/>
+
+### 第二步: 通過人機驗證: 這裡選狗的照片
+
+<img src="./image/flowvpn/2-1.PNG" alt="drawing" width="600"/>
+
+### 第三步: 就可以下載flowvpn (支援: 国内银行卡包含visa或是master card(海外卡也可以)，還有alipay)
+
+<img src="./image/flowvpn/3-1.PNG" alt="drawing" width="600"/>
+
 
 ### 中國特殊時期的VPN連接問題 (敏感時期)
 在中国的“敏感期”，所有的翻墙工具都会出现连接不畅、断线等问题。 一年中几乎所有的连接问题都会在此期间发生。 这是因为中国政府高度重视政治稳定，并且在此期间经常会收紧互联网限制。 因此，在这个敏感时期，位于中国的 VPN 服务器经常出现连接不良和断开连接的问题。 但是，用户可以采取一些步骤来尽量减少这些限制的影响。 例如，使用位于中国境外的 VPN 服务器可以帮助减少遇到连接问题的可能性。 此外，选择在可靠性和速度方面享有盛誉的 VPN 服务器也很重要。 通过采取这些措施，用户可以帮助确保他们能够在中国的敏感时期自由浏览互联网。有底下常見的幾個敏感時期:

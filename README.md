@@ -280,6 +280,14 @@ Proton VPN在2018年以前也是一个很火红的VPN，然而近年来由于防
 
 <img src="./image/black/lg.PNG" alt="drawing" width="400"/>
 
+
+### Astrillvpn
+
+
+
+<img src="./image/black/astrillvpn.png" alt="drawing" width="400"/>
+
+
 ### VyprVPN
 如果您看到其他人推荐 VyprVPN，请不要再使用了。 VyprVPN 目前在中国的表现相对较差。 我个人的经验是2年前在中国还不错，但是从那以后速度和稳定性都下降了。 但是，由于其隐私和安全功能，VyprVPN 对于印度来说仍然是一个不错的选择。 此外，VyprVPN 还可以提供对印度被封锁网站和内容的访问。
 

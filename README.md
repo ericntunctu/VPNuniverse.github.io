@@ -380,15 +380,25 @@ Surfshack 提供了一种专用的智能上網模式，可自动将您连接到�
 
 
 
-## strongvpn 的安裝教學
+## strongvpn 的使用安裝教學
+
+現在來解釋如何下載並使用strongvpn。按照上述方法付完錢以後，選擇你的對應設備: 有iOS, linux, windows, mac, 或android，這裡用windows系統當作教學。關於其他設備，可以參考我的其他文章。
 
 
 ## Expressvpn 的安裝教學
 
+現在來解釋如何下載並使用Expressvpn。按照上述方法付完錢以後，選擇你的對應設備: 有iOS, linux, windows, mac, 或android，這裡用windows系統當作教學。關於其他設備，可以參考我的其他文章。
 
-## surfshark 的安裝教學
+
+## Surfshark 的安裝教學
+
+現在來解釋如何下載並使用Surfshark。按照上述方法付完錢以後，選擇你的對應設備: 有iOS, linux, windows, mac, 或android，這裡用windows系統當作教學。關於其他設備，可以參考我的其他文章。
 
 ## flowvpn 的安裝教學
+
+現在來解釋如何下載並使用FlowVPN。按照上述方法付完錢以後，選擇你的對應設備: 有iOS, linux, windows, mac, 或android，這裡用windows系統當作教學。關於其他設備，可以參考我的其他文章。
+
+
 
 ## 你必须知道的VPN的核心知识
 

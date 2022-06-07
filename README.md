@@ -281,11 +281,22 @@ Proton VPN在2018年以前也是一个很火红的VPN，然而近年来由于防
 <img src="./image/black/lg.PNG" alt="drawing" width="400"/>
 
 
+
 ### Astrillvpn
 
+Astrillvpn算是很貴的VPN。在我们开始谈论 AstrillVPN 是否适合通過防火墻之前，我们先来看看以下几点我认为是不足的地方。
 
+首先价格太高了：
+Astrill VPN非常昂贵，一年一個月要10美元，而StrongVPN每月3美元，ExpressVPN 15个月每月7美元，即使你只购买六个月，每月9美元，Surfshark每月只需6美元，7美元，两个只需3美元 年。 這根本就是是整个 VPN 市场上最贵的一款。
+
+并非所有网站都可以访问（没有退款机制）：
+如果这么贵的话，应该是极速的，可以解封很多网站，但是AstrillVPN可以浏览Netflix，但是一些像huhu这样的网站就不行了。 最重要的是，与ExpressVPN、Surfshark VPN相比，StrongVPN有1个月的退款，而Astrill VPN只有7天的试用期（而且不退款）。 千萬不要使用。
 
 <img src="./image/black/astrillvpn.png" alt="drawing" width="400"/>
+
+### NordVPN
+
+NordVPN是一款非常有名非常多人使用的歐美VPN。很可惜 NordVPN 的官方网站在中国无法使用。NordVPN 总部位于巴拿马，没有参与五眼或十四眼联盟，因此该公司承诺不保留用户日志。 从这个角度来看，它属于非中文VPN，这是一个很好的条件。 NordVPN 也与其他 VPN 相同，具有适用于 Windows、macOS 和 Linux 的桌面应用程序，以及适用于 Android 和 iOS 以及 Android TV 的移动应用程序。 不仅如此，NordVPN也很擅长营销，Nord与很多youtuber合作过，口碑非常高。 很遗憾，2018年之后，技术逐渐落后，在我看来是一个遗憾。
 
 
 ### VyprVPN
